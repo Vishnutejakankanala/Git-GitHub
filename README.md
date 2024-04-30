@@ -67,16 +67,16 @@ dckr_pat_cZ6ceakn00sTBUPa3r0bbPUmtp0
 # When we open new Repo in gitHub you will see
 …or create a new repository on the command line
 echo "# git2" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Vishnutejakankanala/git2.git
-git push -u origin main
+1. git init
+2. git add README.md
+3. git commit -m "first commit"
+4. git branch -M main
+5. git remote add origin https://github.com/Vishnutejakankanala/git2.git
+6. git push -u origin main
 …or push an existing repository from the command line
 git remote add origin https://github.com/Vishnutejakankanala/git2.git
-git branch -M main
-git push -u origin main
+1. git branch -M main
+2. git push -u origin main
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
