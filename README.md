@@ -55,7 +55,7 @@ git stash :- Git stash acts as a mechanism to locally store version files hidden
 7. git push -u <git url> <branch> --> To push the branch to remote repo
 ````
 
-# Some imp commands
+# Some important commands
 ````
 git config --global User.Name "vishnu"	:- to add user name
 git config --global User.Email "mail id":- to add mail id
