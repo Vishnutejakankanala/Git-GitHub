@@ -27,11 +27,12 @@ git checkout -b <branch name>	:- to create new branch in git
 git chechout <branch name>   	:- to switch to other branch
 git branch 			:- to list all branches
 ````
-after modifing related changes need to excute (git add, git commit, git push)
-Creating a pull request from github management console for to merge into master branch.
-after merginging into the master branch 
-git checkout master
-git branch -D <feature branch> :- To delete feature branch
+after modifing related changes need to excute (git add, git commit, git push)  
+Creating a pull request from github management console for to merge into master branch.  
+after merginging into the master branch  
+git checkout master  
+git branch -D <feature branch> :- To delete feature branch  
+use double space to write in the next line.
 
 # TO MERGE BRANCHES (GIT MERGE, GIT REBASE OR GIT CHERRY-PICK)
 ````
